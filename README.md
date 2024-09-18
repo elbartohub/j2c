@@ -9,8 +9,7 @@ pip install googletrans
 執行方法。
 python j2c.py [input.srt] [output.srt]
 
--s, --source, default='ja', help='源語言代碼 (默認: ja)
-
--d, --dest, default='zh-tw', help='目標語言代碼 (默認: zh-tw)
-
--l, --list, help='列出所有可用的語言代碼'
+-s 或 --source 輸入文章語言 默認=ja
+-d 或 --dest 目標語言 默認=zh-tw
+-l 或 --list 列出所有可用的語言代碼
+-h 幫助

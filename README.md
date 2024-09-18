@@ -1,5 +1,6 @@
 # j2c
-Translate subtitle file .srt from any language\n
+Translate subtitle file .srt from any language
+
 翻譯字幕檔至任何指定語言字幕。默認由日文翻譯中文
 
 首先安裝 Python 庫。

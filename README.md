@@ -13,4 +13,4 @@ python j2c.py [input.srt] [output.srt]
 
 -d, --dest, default='zh-tw', help='目標語言代碼 (默認: zh-tw)
 
--l, --list, action='store_true', help='列出所有可用的語言代碼'
+-l, --list, help='列出所有可用的語言代碼'

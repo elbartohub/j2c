@@ -1,13 +1,13 @@
 # j2c
-Translate subtitle file .srt from any language
+Translate video subtitle file .srt from any language
 
-翻譯字幕檔至任何指定語言字幕。默認由日文翻譯中文
+翻譯影片字幕檔 .srt 至任何指定語言。默認由日文翻譯成繁體中文
 
-首先安裝 Python 庫。
+先安裝 Python 庫, 使用：
 
 pip install googletrans
 
-執行方法。
+執行方法：
 
 python j2c.py [input.srt] [output.srt]
 
